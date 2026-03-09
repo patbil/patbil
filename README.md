@@ -24,6 +24,7 @@ const profile = {
   },
   workingOn: "Building scalable and resilient solutions",
   learning: [
+    "Cybersecurity",
     "AI / ML",
     "Backend with Java",
     "Data Structures & Algorithms"
